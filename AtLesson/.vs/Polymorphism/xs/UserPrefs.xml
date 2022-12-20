@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AF7548BB-79D6-4037-A25C-89F1F54C9F4F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AtHome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AtLesson/Services/CommonService.cs">
+    <Files>
+      <File FileName="AtLesson/Services/Test.cs" />
+      <File FileName="AtLesson/Services/Person.cs" />
+      <File FileName="AtLesson/Services/CommonService.cs" Line="10" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polymorphism" expanded="True">
+            <Node name="AtLesson" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="CommonService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AtLesson PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

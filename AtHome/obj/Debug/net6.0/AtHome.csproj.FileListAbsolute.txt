@@ -1,0 +1,15 @@
+/Users/ali200119/Desktop/Homework/AtHome/bin/Debug/net6.0/AtHome
+/Users/ali200119/Desktop/Homework/AtHome/bin/Debug/net6.0/AtHome.deps.json
+/Users/ali200119/Desktop/Homework/AtHome/bin/Debug/net6.0/AtHome.runtimeconfig.json
+/Users/ali200119/Desktop/Homework/AtHome/bin/Debug/net6.0/AtHome.dll
+/Users/ali200119/Desktop/Homework/AtHome/bin/Debug/net6.0/AtHome.pdb
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.csproj.AssemblyReference.cache
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.AssemblyInfoInputs.cache
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.AssemblyInfo.cs
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.csproj.CoreCompileInputs.cache
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.dll
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/refint/AtHome.dll
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.pdb
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/AtHome.genruntimeconfig.cache
+/Users/ali200119/Desktop/Homework/AtHome/obj/Debug/net6.0/ref/AtHome.dll
